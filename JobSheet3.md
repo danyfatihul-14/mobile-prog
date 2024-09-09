@@ -20,6 +20,7 @@ if (test == "test2") print("Test2 again");
 
 ### Langkah 2
 Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan!
+> Yang terjadi adalah akan menghasilkan output test2 dan test2 again dikarenakan yang diprint adalah test 2.
 
 ![alt text](image/image.png)
 
@@ -46,6 +47,8 @@ void main() {
 }
 ```
 ![alt text](image/image-1.png)
+
+> akan menghasilkan output kebenaran dikarenakan terdapat if atau jika test sama dengan true maka akan menghasilkan output kebenaran
 ## Praktikum 2 : Menerapkan Perulangan "while" dan "do-while"
 
 ### Langkah 1
@@ -141,7 +144,12 @@ void main() {
 }
 ```
 ![alt text](image/image-6.png)
+
 ## Tugas Praktikum
+1. Silakan selesaikan Praktikum 1 sampai 3, lalu dokumentasikan berupa screenshot hasil pekerjaan beserta penjelasannya!
+> Jawaban Diatas
+
+2. Buatlah sebuah program yang dapat menampilkan bilangan prima dari angka 0 sampai 201 menggunakan Dart. Ketika bilangan prima ditemukan, maka tampilkan nama lengkap dan NIM Anda.
 ``` dart
 void main() {
   String namaLengkap = 'Dany Fatihul Ihsan';
@@ -169,3 +177,5 @@ void main() {
 ```
 
 ![alt text](image/TugasPraktikum.png)
+
+3. Kumpulkan berupa link commit repo GitHub pada tautan yang telah disediakan di grup Telegram!
